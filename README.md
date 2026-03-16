@@ -17,6 +17,7 @@ Para manter a organização acadêmica, as pastas deste repositório seguem um p
 * **`IP`**: Indica a disciplina de Introdução à Programação.
 * **`ED`**: Indica a disciplina de Estruturas de Dados.
 * **`LP1`**: Indica a disciplina de Linguagem de Programação 1.
+* **`L[número]`**: Indica o número do Exercício.
 
 ## 📁 Estrutura do Repositório
 
@@ -46,6 +47,7 @@ To maintain academic organization, the folders in this repository follow an acro
 * **`IP`**: Indicates the Introduction to Programming course.
 * **`ED`**: Indicates the Data Structures course.
 * **`LP1`**: Indicates the Programming Language 1 course.
+* **`L[number]`**: Indicates the Exercise number.
 
 ## 📁 Repository Structure
 
