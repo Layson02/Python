@@ -3,8 +3,6 @@
 
 [🇺🇸 Read in English](#english)
 
-Repositório destinado a estudos, exercícios e códigos diversos em Python que não integram projetos específicos de maior complexidade.
-
 ## 🛠️ Tecnologias e Ambiente
 
 <div style="display: inline_block">
@@ -33,8 +31,6 @@ Para manter a organização acadêmica, as pastas deste repositório seguem um p
 # 🐍 Python Studies and Practices
 
 [🇧🇷 Ler em Português](#portugues)
-
-Repository dedicated to studies, academic exercises, and various Python codes that are not part of highly complex projects.
 
 ## 🛠️ Technologies and Environment
 
