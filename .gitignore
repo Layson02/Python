@@ -1,0 +1,16 @@
+.vscode/
+.env
+.history
+node_modules/
+dist/
+*.log
+*.tmp
+.DS_Store
+.idea/
+npm-debug.log
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.continue
