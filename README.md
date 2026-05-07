@@ -56,8 +56,3 @@ Para manter a organização acadêmica, as pastas deste repositório seguem um p
 * **`/Python_P2_ED`**: Códigos e exercícios do 2º período (Estruturas de Dados).
 * **`/Python_P2_LP1`**: Códigos e exercícios do 2º período (Linguagem de Programação 1).
 
----
-
-## 👨‍💻 Autor / Author
-
-**Layson**
